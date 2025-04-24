@@ -14,7 +14,14 @@ config/name="Card"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=800
+window/stretch/mode="viewport"
+
 [rendering]
 
+gl_compatibility/driver.windows="opengl3_angle"
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
