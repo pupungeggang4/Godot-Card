@@ -1,3 +1,7 @@
+<<<<<<< HEAD:Game/Scene/field.tscn
 [gd_scene format=3 uid="uid://r1d3ls6otpkt"]
+=======
+[gd_scene format=3 uid="uid://biqr8j6a1k2ba"]
+>>>>>>> refs/remotes/origin/main:Card/Game/Scene/field.tscn
 
 [node name="Field" type="Node2D"]
